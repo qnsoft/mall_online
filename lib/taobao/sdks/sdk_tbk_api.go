@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"github.com/qnsoft/mall_online/lib/taobao/models"
 	"strings"
-	"zhenfangbian/web_api/utils/ErrorHelper"
-	php2go "zhenfangbian/web_api/utils/Php2go"
-	"zhenfangbian/web_api/utils/WebHelper"
+	"github.com/qnsoft/web_api/utils/ErrorHelper"
+	php2go "github.com/qnsoft/web_api/utils/Php2go"
+	"github.com/qnsoft/web_api/utils/WebHelper"
 )
 
 /*

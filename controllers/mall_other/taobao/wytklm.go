@@ -2,9 +2,9 @@ package taobao
 
 import (
 	"fmt"
-	"zhenfangbian/web_api/controllers/Token"
-	"zhenfangbian/web_api/utils/ErrorHelper"
-	"zhenfangbian/web_api/utils/WebHelper"
+	"github.com/qnsoft/web_api/controllers/Token"
+	"github.com/qnsoft/web_api/utils/ErrorHelper"
+	"github.com/qnsoft/web_api/utils/WebHelper"
 )
 
 const (

@@ -3,14 +3,15 @@ package taobao
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/qnsoft/mall_online/lib/taobao/models"
-	"github.com/qnsoft/mall_online/lib/taobao/sdks"
 	"strconv"
-	"zhenfangbian/web_api/controllers/Token"
-	"zhenfangbian/web_api/models/shop"
-	"zhenfangbian/web_api/utils/DbHelper"
-	"zhenfangbian/web_api/utils/ErrorHelper"
-	"zhenfangbian/web_api/utils/WebHelper"
+
+	taobao_model "github.com/qnsoft/mall_online/lib/taobao/models"
+	taobao_sdk "github.com/qnsoft/mall_online/lib/taobao/sdks"
+	"github.com/qnsoft/web_api/controllers/Token"
+	"github.com/qnsoft/web_api/models/shop"
+	"github.com/qnsoft/web_api/utils/DbHelper"
+	"github.com/qnsoft/web_api/utils/ErrorHelper"
+	"github.com/qnsoft/web_api/utils/WebHelper"
 
 	"github.com/astaxie/beego/cache"
 )
