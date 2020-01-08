@@ -3,8 +3,8 @@ package taobao
 import (
 	"encoding/json"
 	"fmt"
-	"qnsoft/mall_online/lib/taobao/models"
-	"qnsoft/mall_online/lib/taobao/sdks"
+	"github.com/qnsoft/mall_online/lib/taobao/models"
+	"github.com/qnsoft/mall_online/lib/taobao/sdks"
 	"strconv"
 	"zhenfangbian/web_api/controllers/Token"
 	"zhenfangbian/web_api/models/shop"

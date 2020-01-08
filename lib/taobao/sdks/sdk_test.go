@@ -3,7 +3,7 @@ package taobao_sdk
 import (
 	"encoding/json"
 	"fmt"
-	"qnsoft/mall_online/lib/taobao/models"
+	"github.com/qnsoft/mall_online/lib/taobao/models"
 	"strings"
 	"zhenfangbian/web_api/utils/ErrorHelper"
 	"zhenfangbian/web_api/utils/WebHelper"

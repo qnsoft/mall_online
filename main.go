@@ -2,12 +2,12 @@ package main
 
 import (
 
-	// "qnsoft/mall_online/lib/taobao/models"
+	// "github.com/qnsoft/mall_online/lib/taobao/models"
 	"fmt"
-	//"qnsoft/mall_online/lib/taobao/sdks"
+	//"github.com/qnsoft/mall_online/lib/taobao/sdks"
 
-	"qnsoft/mall_online/lib/jd/sdks"
-	_ "qnsoft/mall_online/routers"
+	"github.com/qnsoft/mall_online/lib/jd/sdks"
+	_ "github.com/qnsoft/mall_online/routers"
 
 	"github.com/astaxie/beego"
 )

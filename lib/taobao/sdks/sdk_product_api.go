@@ -1,7 +1,7 @@
 package taobao_sdk
 
 import (
-	"qnsoft/mall_online/lib/taobao/models"
+	"github.com/qnsoft/mall_online/lib/taobao/models"
 	"strings"
 	php2go "zhenfangbian/web_api/utils/Php2go"
 )
