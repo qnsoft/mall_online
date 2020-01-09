@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"github.com/qnsoft/mall_online/lib/jd/models"
 	"strings"
-	"github.com/qnsoft/web_api/utils/ErrorHelper"
-	"github.com/qnsoft/web_api/utils/WebHelper"
-	"github.com/qnsoft/web_api/utils/php2go"
+	"github.com/qnsoft/utils/ErrorHelper"
+	"github.com/qnsoft/utils/WebHelper"
+	"github.com/qnsoft/utils/php2go"
 )
 
 /*

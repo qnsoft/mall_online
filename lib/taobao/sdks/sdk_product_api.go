@@ -3,7 +3,7 @@ package taobao_sdk
 import (
 	"github.com/qnsoft/mall_online/lib/taobao/models"
 	"strings"
-	php2go "github.com/qnsoft/web_api/utils/Php2go"
+	php2go "github.com/qnsoft/utils/Php2go"
 )
 
 /**
